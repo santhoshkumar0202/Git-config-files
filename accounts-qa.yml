@@ -7,9 +7,10 @@ accounts:
   message: "welcome to eazybyte accounst qa api"
   contactDetails:
     name: "elis perry -qa Lead "
-    email: "5bb850b4fe42a48e6c843c71065816581b19e202a300d19089209ea554e86e7"
+    email: "5bb850b4fe42a48e6c843c71065816581b19e202a300d19089209ea554e86e7d"
   mobileNo:
     - 7894563327
 
     - 3652147961
+
 
