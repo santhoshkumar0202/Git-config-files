@@ -3,7 +3,7 @@ build:
   version: 2.0
 
 loans:
-  message: "welcome to eazybyte loans producion bus api"
+  message: "welcome to eazybyte loans producion bus 2.0 api"
   contactDetails:
     name: "jack-Developer prod "
     email: "jack@gmail.com"
@@ -11,3 +11,4 @@ loans:
     - 7894163212
 
     - 3652747896
+
