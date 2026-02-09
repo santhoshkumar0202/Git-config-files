@@ -5,7 +5,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "welcome to eazybyte accounst production bus 2.0 api"
+  message: "welcome to eazybyte accounst prod api"
   contactDetails:
     name: "tripple x -prod "
     email: "tripplex@gmail.com"
@@ -13,5 +13,6 @@ accounts:
     - 7894563213
 
     - 3652147895
+
 
 
