@@ -4,7 +4,7 @@ build:
   version: 2.0
 
 cards:
-  message: "welcome to eazybyte card production bus api"
+  message: "welcome to eazybyte card production bus 2.0 api"
   contactDetails:
     name: "justin vaari -Developer "
     email: "justin@gmail.com"
@@ -12,3 +12,4 @@ cards:
     - 7894563216
 
     - 3652147897
+
