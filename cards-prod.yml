@@ -4,7 +4,7 @@ build:
   version: 2.0
 
 cards:
-  message: "welcome to eazybyte card prod api"
+  message: "welcome to eazybyte card prod docker update api"
   contactDetails:
     name: "justin vaari -Developer "
     email: "justin@gmail.com"
@@ -12,6 +12,7 @@ cards:
     - 7894563216
 
     - 3652147897
+
 
 
 
