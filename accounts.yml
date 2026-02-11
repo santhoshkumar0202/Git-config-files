@@ -3,7 +3,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "welcome to eazybyte accounst local api"
+  message: "welcome to eazybyte accounst local docker api"
   contactDetails:
     name: "jhon cena-Developer "
     email: "jhon@gmail.com"
